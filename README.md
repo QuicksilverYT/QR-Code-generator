@@ -5,8 +5,15 @@ QR Code Logo Generator
 ==========================
 Generate QR codes .
 
- the url you want on the QR code, and the output filename
-
+ # Step 1
 ```
 git clone https://github.com/QuicksilverYT/QR-Code-generator
 ```
+# Step 2 
+```
+Run it 
+```
+
+# Author 🧑‍💻
+Made by [itzQuicksilver](https://github.com/QuicksilverYT)
+
